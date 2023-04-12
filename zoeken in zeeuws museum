@@ -1,0 +1,814 @@
+# Zoek in alles – Zeeuws Archief
+
+html,body{height:100%;}#mibox-bg{position:absolute;width:100%;height:100%;left:0;z-index:1;text-align:left;}#mibox-bgf{position:absolute;width:100%;height:100%;z-index:2;opacity:0;filter:alpha(opacity=0);text-align:left;}#mibox-bgo{position:absolute;width:100%;height:100%;z-index:3;background:url("//mifiles.archieven.nl/default/images/bgmibox.png") repeat scroll 0 0 transparent;}#mibox-b{position:relative;margin:auto;z-index:4;text-align:left;}#mibox-t{display:none;position:relative;color:#FFF;font-size:16px;line-height:20px;padding:5px 0;}#mibox-c{position:relative;z-index:5;height:100%;background-color:white;}#mibox-cont{position:relative;height:100%;}#mibox-cl{position:absolute;top:0;right:0;z-index:6;cursor:pointer;display:block;padding:10px 20px;}
+
+- [Direct naar content](#content)
+- [Direct zoeken](#search)
+
+Menu
+
+[Zeeuws Archief Zeeuws Archief](https://www.zeeuwsarchief.nl/)
+
+Zoeken
+
+- [Openingstijden & Actueel](https://www.zeeuwsarchief.nl/actueel/)
+    -   [Nieuws](https://www.zeeuwsarchief.nl/actueel/nieuws/)
+    -   [Agenda](https://www.zeeuwsarchief.nl/agenda/)
+    -   [Blog](https://www.zeeuwsarchief.nl/blog/)
+    -   [Educatie](https://www.zeeuwsarchief.nl/actueel/educatie/)
+    -   [Werkgroep Paleografie](https://www.zeeuwsarchief.nl/over-ons/werkgroep-paleografie-in-zeeland/)
+    -   [Zeeuwse verhalen](https://www.zeeuwsarchief.nl/zeeuwse-verhalen/)
+    -   [Vacatures](https://www.zeeuwsarchief.nl/over-ons/vacatures/)
+- [Onderzoek-het-zelf](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/)
+    -   [Zeeuwen Gezocht](https://www.zeeuwsarchief.nl/zeeuwen-gezocht/)
+    -   [Zoekgidsen](https://www.zeeuwsarchief.nl/zoeken/?refinementList%5Bpost_type%5D%5B0%5D=zoekgids)
+    -   [Hergebruik onze collectie](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/hergebruik-onze-collectie/)
+    -   [Trans-Atlantische slavenhandel](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/trans-atlantische-slavenhandel/)
+    -   [Strijd tegen het water](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/strijd-tegen-het-water/)
+    -   [Zeeuwse emigranten](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/zeeuwse-emigranten/)
+- [Expertise in archiveren](https://www.zeeuwsarchief.nl/expertise-in-archiveren/)
+    -   [In goede en geordende staat](https://www.zeeuwsarchief.nl/expertise-in-archiveren/in-goede-en-geordende-staat/)
+    -   [Digitaliseren](https://www.zeeuwsarchief.nl/expertise-in-archiveren/digitaliseren/)
+    -   [Zeeuws e-Depot](https://www.zeeuwsarchief.nl/expertise-in-archiveren/zeeuws-e-depot/)
+    -   [Museale collecties](https://www.zeeuwsarchief.nl/expertise-in-archiveren/museale-collecties/)
+    -   [Dienstverlening op maat](https://www.zeeuwsarchief.nl/expertise-in-archiveren/dienstverlening-op-maat/)
+- [Over ons](https://www.zeeuwsarchief.nl/over-ons/)
+    -   [Wie wij zijn en wat wij doen](https://www.zeeuwsarchief.nl/over-ons/wie-wij-zijn-en-wat-wij-doen/)
+    -   [Gebouw](https://www.zeeuwsarchief.nl/over-ons/gebouw/)
+    -   [Contact](https://www.zeeuwsarchief.nl/over-ons/contact/)
+    -   [Inwonende instellingen](https://www.zeeuwsarchief.nl/over-ons/inwonende-instellingen/)
+    -   [Vrienden van het Zeeuws Archief](https://www.zeeuwsarchief.nl/vrienden-van-het-zeeuws-archief/)
+- [Plan je bezoek](https://www.zeeuwsarchief.nl/plan-je-bezoek/)
+    -   [Studiezalen](https://www.zeeuwsarchief.nl/plan-je-bezoek/studiezaal/)
+    -   [Openingstijden](https://www.zeeuwsarchief.nl/plan-je-bezoek/openingstijden/)
+    -   [Expositie ‘Ooggetuigen van de slavenhandel’](https://www.zeeuwsarchief.nl/agenda/expositie-ooggetuigen-van-de-slavenhandel/)
+
+ Zoeken
+
+Zoeksuggesties
+
+- [MCC](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=MCC)
+- [Stadsrechten](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Stadsrechten)
+- [Bouwtekeningen](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Bouwtekeningen)
+- [Deltawerken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Deltawerken)
+- [Tachtigjarige Oorlog](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Tachtigjarige+Oorlog)
+- [Kolonie](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Kolonie)
+- [Tweede Wereldoorlog](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Tweede+Wereldoorlog)
+- [Middelburg 800 jaar](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Middelburg+800+jaar)
+- [Paleografie](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Paleografie)
+- [Walcheren](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/?q=Walcheren)
+
+2. [Onderzoek-het-zelf](https://www.zeeuwsarchief.nl/onderzoek-het-zelf)
+3. Archief
+
+mi_params=new Object();mi_params\['mivast'\]="239";mi_params\['mizig'\]="0";mi_params\['miadt'\]="239";mi_params\['miq'\]="2648103522";mi_params\['miaet'\]="1";mi_params\['miamount'\]="8";mi_params\['mistart'\]="0";mi_params\['micols'\]="1";mi_params\['milang'\]="nl";mi_params\['miview'\]="lst";mi_params\['mizk_alle'\]="bestuur der visserij";mi_params\['misessid'\]="u1joh2jprq171tn455kck44fgj";mi_params\['mires'\]="1";var mi_useprox = {};mi_useprox.reg = true;mi_useprox.wmd = true;mi_useprox.node = true;mi_useprox.refresh = true;mi_useprox.pager = true;mi_useprox.postform = true;mi_useprox.setfav = true;mi_useprox.strip = false;mi_useprox.reacties = true;mi_useprox.autocomplete = true;mi_useprox.film = true;mi_useprox.map = true;mi_useprox.goto = true;mi_useprox.viewer = true;mi_useprox.filterside = true;mi_useprox.initial = false;mi_useprox.record = true;mi_useprox.uniUrl = false;mi_nextpage="/onderzoek-het-zelf/archief/";
+
+if (typeof mi_loadscriptsdone == 'undefined') {var mi_proxyurl='/maisi_ajax_proxy.php';var mi_lang='nl';var mi_urlsrv='//srv.archieven.nl/';var mi_proxies='//srv.archieven.nl/proxies/';var mi_jspath='//srv.archieven.nl/js_min/';var mi_version='23.1.19';var mi_msurl='https://mijnstudiezaal.nl/ms/f?p=102';var mi_htmlhead;function mi_gethtmlhead(){if(mi_htmlhead)return mi_htmlhead;var e=document.getElementsByTagName('head')\[0\];return e&&(mi_htmlhead=e),mi_htmlhead}function mi_addevent(e,i,t){return e.addEventListener?(e.addEventListener(i,t,!1),!0):e.attachEvent?e.attachEvent('on'+i,t):void(e\['on'+i\]=t)}function mi_loadcss(e,i){var t,a;document.getElementById(e)||(t=mi_gethtmlhead(),(a=document.createElement('link')).id=e,a.rel='stylesheet',a.type='text/css',a.href=i,a.media='all',t.appendChild(a))}function mi_loadjs(e,i,t){var a,n;document.getElementById(e)||(a=mi_gethtmlhead(),(n=document.createElement('script')).id=e,n.src=i,n.type='text/javascript',n.async=!0,t&&(n.readyState?n.onreadystatechange=function(){'loaded'!=n.readyState&&'complete'!=n.readyState||(n.onreadystatechange=null,t())}:n.onload=function(){t()}),a.appendChild(n))}function mi_domready(e){'loading'!=document.readyState?e():document.addEventListener('DOMContentLoaded',e)}function mi_scriptsloaded(e,i){'undefined'!=typeof mi_getElementByClassName||'complete'==document.readyState||'function'==typeof mi_initpage?i?setTimeout(function(){e()},i):e():setTimeout(function(){mi_scriptsloaded(e,i)},100)}mi_loadjs('mi_jsalg',mi_jspath+'algemeen.js?v='+mi_version,function(){mi_initpage(),mi_scriptsloaded(mi_initpage),setTimeout(function(){mi_unlockbuttons(document),mi_focusform(),mi_backbutton()},10)}),mi_loadjs('mi_jsarc',mi_jspath+'accordion.js?v='+mi_version),mi_loadjs('mi_jsaut',mi_jspath+'autocomplete.js?v='+mi_version),mi_loadjs('mi_jsalg',mi_jspath+'algemeen.js?v='+mi_version),mi_loadjs('mi_jsbox',mi_jspath+'mibox.js?v='+mi_version,function(){Mibox.init()}),mi_loadjs('mi_jstt2','//mifiles.archieven.nl/default/js/opentip/mi-opentip.min.js'),mi_loadcss('mi_csstt2','//mifiles.archieven.nl/default/js/opentip/opentip.css'),mi_loadjs('mi_jscal','//mifiles.archieven.nl/default/js/calendar/calendar.min.js'),mi_loadjs('mi_jspika','//mifiles.archieven.nl/default/js/pikaday/pikaday.js'),mi_loadcss('mi_csspika','//mifiles.archieven.nl/default/js/pikaday/pikaday.css'),mi_loadjs('mi_jstag','//mifiles.archieven.nl/default/js/taggle/js/taggle.min.js'),mi_loadcss('mi_csstag','//mifiles.archieven.nl/default/js/taggle/default.css'),mi_loadcss('mi_cssicon','//mifiles.archieven.nl/default/css/fontawesome/css/all.css');var mi_loadscriptsdone=!0;}
+
+Uw zoekacties: Zoeken in de toegangen
+
+ [![Mijn Studiezaal](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/mijnstudiezaal16.png) Mijn Studiezaal (inloggen)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?miview=ms)
+
+#### Zoek in alles
+
+[Meer informatie](https://aluminum-pinnate-phalange.glitch.me/?)
+
+**Hulp bij uw onderzoek.**
+De informatie in deze website is zeer divers en bedoeld voor mensen met een belangstelling voor historisch of genealogisch onderzoek.
+Wij trachten de informatie zo eenvoudig mogelijk te houden, maar beseffen ook dat de aard van de informatie soms wel enige studie of historische inzicht vereist.
+
+**Zoeken en bladeren**
+
+- **Bladeren**
+    De meest eenvoudige manier van werken is het zoeken te starten zonder zoekterm. U kunt dan bladeren door alle aanwezige toegangen.
+- **Eenvoudig zoeken**
+    Wilt u een specifieker resultaat dan adviseren wij u te starten met één zoekterm. Het resultaat dat u krijgt voldoet aan de zoekterm. U kunt het resultaat verder verkleinen door meerdere zoektermen op te geven.
+- **Uitgebreid zoeken**
+    Kiest u voor uitgebreid zoeken dan kunt u afhankelijk van de situatie meerdere zoekvelden invullen, waarna het resultaat zal voldoen aan de specifieke zoekactie. In iedere veld kunnen meerdere zoektermen worden ingevuld.
+- **Zoektermen combineren**
+    _Zoektermen worden gecombineerd_ De zoekfunctie voegt automatisch "en" toe tussen de verschillende zoekmogelijkheden die worden gebruikt. Zo kunnen 'zoeken met alle woorden' en 'zoeken met één van de woorden' worden gecombineerd.
+- **Booleaanse operatoren**
+    Normaal worden meerdere zoektermen altijd gecombineerd met AND. U kunt bij het zoeken in een zoekveld ook gebruik maken van de Booleaanse operatoren: NOT en OR. De zoekacties met NOT beperken het zoekresultaat, terwijl OR veel meer resultaten oplevert.
+    OR wordt vooral geadviseerd bij een bekende variatie op de schrijfwijze, bijvoorbeeld:
+    - Den Haag OR ’s-Gravenhage
+    - Vereeniging OR Vereniging
+- **Woordcombinatie**
+    Wilt u zoeken met een woordcombinatie in een vaste volgorde (bijv. Vereniging tot behoud van natuurmonumenten), zet deze woorden dan "tussen aanhalingstekens".
+
+**Verfijnen**
+In de meeste gevallen zal naast het zoekresultaat een mogelijkheid tot verfijnen worden aangeboden. Verfijnen kan bijvoorbeeld op materiaalsoort, maar in andere gevallen op plaats en straat. Dit is afhankelijk van het archiefmateriaal dat geselecteerd is.
+
+**Sorteren**
+De resultaten staan gesorteerd in een standaard sortering. Dit kan per toegang verschillend zijn. In de meeste gevallen kan voor een andere sortering worden gekozen.
+
+Alle woorden
+
+Zoek Uitgebreid zoeken
+
+Zoektips
+
+Één van de woorden
+
+Met een zin
+
+Toegangscode
+
+Periode
+
+ t/m
+
+Opnieuw zoeken
+
+Materiaal
+
+Raadpleegvestiging
+
+Collectie
+
+Categorie
+
+- [Archieftoegang (18)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif1=4&miview=lst "Archieftoegang (18) ")
+- [Bibliotheek (2)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif1=3&miview=lst "Bibliotheek (2) ")
+- [Beeld en geluid (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif1=1&miview=lst "Beeld en geluid (1) ")
+- [Systematisch overzicht (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif1=61&miview=lst "Systematisch overzicht (1) ")
+- [Middelburg, Hofplein (13)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif2=Middelburg%2C%20Hofplein&miview=lst "Middelburg, Hofplein (13) ")
+- [Zierikzee, Laan van St. Hilaire (4)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif2=Zierikzee%2C%20Laan%20van%20St.%20Hilaire&miview=lst "Zierikzee, Laan van St. Hilaire (4) ")
+- [Provincie Zeeland (5)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif3=Provincie%20Zeeland&miview=lst "Provincie Zeeland (5) ")
+- [Rijksarchief in Zeeland (5)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif3=Rijksarchief%20in%20Zeeland&miview=lst "Rijksarchief in Zeeland (5) ")
+- [Gemeente Schouwen-Duiveland (4)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif3=Gemeente%20Schouwen-Duiveland&miview=lst "Gemeente Schouwen-Duiveland (4) ")
+- [Gemeente Vlissingen (2)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif3=Gemeente%20Vlissingen&miview=lst "Gemeente Vlissingen (2) ")
+- [Gemeente Middelburg (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif3=Gemeente%20Middelburg&miview=lst "Gemeente Middelburg (1) ")
+- [Algemeen bestuur en Politiek (12)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314343&miview=lst "Algemeen bestuur en Politiek (12) ")
+- [Families en Personen (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314316&miview=lst "Families en Personen (1) ")
+- [Kunst, Cultuur en Erfgoedbeheer (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314313&miview=lst "Kunst, Cultuur en Erfgoedbeheer (1) ")
+- [Landbouw, Veeteelt en Visserij (3)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314349&miview=lst "Landbouw, Veeteelt en Visserij (3) ")
+- [Natuur en Milieu (1)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314386&miview=lst "Natuur en Milieu (1) ")
+- [Verzamelingen (2)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&mif4=314341&miview=lst "Verzamelingen (2) ")
+
+mi_scriptsloaded(function () { mi_setsearchform('formextended_0'); }, 10); mi_scriptsloaded(function () { mi_setupcalender(); }, 500);
+
+if (typeof mi_loadscriptsdone == 'undefined') {var mi_proxyurl='/maisi_ajax_proxy.php';var mi_lang='nl';var mi_urlsrv='//srv.archieven.nl/';var mi_proxies='//srv.archieven.nl/proxies/';var mi_jspath='//srv.archieven.nl/js_min/';var mi_version='23.1.19';var mi_msurl='https://mijnstudiezaal.nl/ms/f?p=102';var mi_htmlhead;function mi_gethtmlhead(){if(mi_htmlhead)return mi_htmlhead;var e=document.getElementsByTagName('head')\[0\];return e&&(mi_htmlhead=e),mi_htmlhead}function mi_addevent(e,i,t){return e.addEventListener?(e.addEventListener(i,t,!1),!0):e.attachEvent?e.attachEvent('on'+i,t):void(e\['on'+i\]=t)}function mi_loadcss(e,i){var t,a;document.getElementById(e)||(t=mi_gethtmlhead(),(a=document.createElement('link')).id=e,a.rel='stylesheet',a.type='text/css',a.href=i,a.media='all',t.appendChild(a))}function mi_loadjs(e,i,t){var a,n;document.getElementById(e)||(a=mi_gethtmlhead(),(n=document.createElement('script')).id=e,n.src=i,n.type='text/javascript',n.async=!0,t&&(n.readyState?n.onreadystatechange=function(){'loaded'!=n.readyState&&'complete'!=n.readyState||(n.onreadystatechange=null,t())}:n.onload=function(){t()}),a.appendChild(n))}function mi_domready(e){'loading'!=document.readyState?e():document.addEventListener('DOMContentLoaded',e)}function mi_scriptsloaded(e,i){'undefined'!=typeof mi_getElementByClassName||'complete'==document.readyState||'function'==typeof mi_initpage?i?setTimeout(function(){e()},i):e():setTimeout(function(){mi_scriptsloaded(e,i)},100)}mi_loadjs('mi_jsalg',mi_jspath+'algemeen.js?v='+mi_version,function(){mi_initpage(),mi_scriptsloaded(mi_initpage),setTimeout(function(){mi_unlockbuttons(document),mi_focusform(),mi_backbutton()},10)}),mi_loadjs('mi_jsarc',mi_jspath+'accordion.js?v='+mi_version),mi_loadjs('mi_jsaut',mi_jspath+'autocomplete.js?v='+mi_version),mi_loadjs('mi_jsalg',mi_jspath+'algemeen.js?v='+mi_version),mi_loadjs('mi_jsbox',mi_jspath+'mibox.js?v='+mi_version,function(){Mibox.init()}),mi_loadjs('mi_jstt2','//mifiles.archieven.nl/default/js/opentip/mi-opentip.min.js'),mi_loadcss('mi_csstt2','//mifiles.archieven.nl/default/js/opentip/opentip.css'),mi_loadjs('mi_jscal','//mifiles.archieven.nl/default/js/calendar/calendar.min.js'),mi_loadjs('mi_jspika','//mifiles.archieven.nl/default/js/pikaday/pikaday.js'),mi_loadcss('mi_csspika','//mifiles.archieven.nl/default/js/pikaday/pikaday.css'),mi_loadjs('mi_jstag','//mifiles.archieven.nl/default/js/taggle/js/taggle.min.js'),mi_loadcss('mi_csstag','//mifiles.archieven.nl/default/js/taggle/default.css'),mi_loadcss('mi_cssicon','//mifiles.archieven.nl/default/css/fontawesome/css/all.css');var mi_loadscriptsdone=!0;}![beacon](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/u1joh2jprq171tn455kck44fgj.gif) mi_googlemapskey = ''; mi_params["mihits"] = '22';
+
+22 zoekresultaten
+
+sorteren op:
+
+  score,datum Titel Datering Laatste wijziging Code
+
+  aflopend oplopend
+
+weergave:
+
+Pagina: 1
+
+Ga
+
+mi_scriptsloaded(function () {mi_createjumpto('e10632db594e4de6b3bc3e58e594eb98',1,8,3,'https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1');});
+
+- vorige |
+- 1 |
+- [2](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=8&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 2") |
+- [3](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=16&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 3") |
+- [volgende](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=8&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 2")
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Bestuur der Visserijen op de Zeeuwse Stromen (BVZS), 1825-1969&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f5AA9960F70FF45A9A076257D9F50BA14)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/5AA9960F70FF45A9A076257D9F50BA14
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=17&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=17&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=17&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=17&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[17 Bestuur der Visserijen op de Zeeuwse Stromen (BVZS), 1825-1969](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=17&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "17 Bestuur der Visserijen op de Zeeuwse Stromen (BVZS), 1825-1969")
+
+1825-1969
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1825-1969
+
+Andere namen:
+
+Bestuur der Visscherijen op de Zeeuwsche Stroomen, Visserijbestuur, Visserijpolitie
+
+Omvang:
+
+95 meter
+
+Openbaarheid:
+
+Geen beperkingen
+
+Toegankelijk:
+
+Inventaris
+
+Jaar bewerking:
+
+1974
+
+Titel publicatie:
+
+J.P.B. Zuurdeeg, _Inventaris van de archieven van het Bestuur der Visserijen op de Zeeuwse Stromen, 1825-1969_ (Middelburg 1974)
+
+Inzage:
+
+Studiezaal, in origineel
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Rijksarchief in Zeeland
+
+Categorie:
+
+- [Landbouw, Veeteelt en Visserij](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Landbouw,%20Veeteelt%20en%20Visserij&miview=lst "zoeken: Landbouw, Veeteelt en Visserij")
+
+laatste wijziging 11-03-2023
+
+3.512 beschreven archiefstukken
+
+6 gedigitaliseerd
+
+totaal 839 bestanden
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Provinciaal Bestuur van Zeeland 1851-1910, 1851-1910&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f3B80E33186D349C9BD4BBBA93CCF49E3)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/3B80E33186D349C9BD4BBBA93CCF49E3
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.2&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.2&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.2&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.2&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[6.2 Provinciaal Bestuur van Zeeland 1851-1910, 1851-1910](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.2&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "6.2 Provinciaal Bestuur van Zeeland 1851-1910, 1851-1910")
+
+1851-1910
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1851-1910
+
+Andere namen:
+
+Provincie Zeeland, Gedeputeerde Staten van Zeeland, Commissaris des Konings in Zeeland, Commissaris der Koningin in Zeeland
+
+Vestigingsplaats:
+
+Middelburg
+
+Omvang:
+
+549 meter
+
+Openbaarheid:
+
+Geen beperkingen
+
+Toegankelijk:
+
+Inventaris
+
+Jaar bewerking:
+
+1984, 1991, 1995
+
+Opmerking:
+
+Onderzoek in dit archief wordt ernstig bemoeilijkt door het verloren gaan van de eigentijdse toegangen op de series zoals agenda's, indicateurs, indices en klappers (zie verder de inleiding).
+
+Inzage:
+
+Studiezaal
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Provincie Zeeland
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 25-10-2022
+
+4.556 beschreven archiefstukken
+
+2 gedigitaliseerd
+
+totaal 11 bestanden
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Prefectuur van het Departement der Monden van de Schelde (D%C3%A9partement des Bouches de l\u0026amp;#39;Escaut),%201810-1814&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f3CEE1DE33CE443ECBC2777EE222D4306)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/3CEE1DE33CE443ECBC2777EE222D4306
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[5 Prefectuur van het Departement der Monden van de Schelde (Département des Bouches de l'Escaut), 1810-1814](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "5 Prefectuur van het Departement der Monden van de Schelde (Département des Bouches de l'Escaut), 1810-1814")
+
+1810-1814
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1810-1814
+
+Andere namen:
+
+Prefect, Onderprefect, Département des Bouches de l'Escaut
+
+Ressort:
+
+Zeeuwse eilanden (zonder Zeeuws-Vlaanderen)
+
+Instelling:
+
+1810
+
+Opheffing:
+
+1814
+
+Vestigingsplaats:
+
+Middelburg
+
+Omvang:
+
+48 meter
+
+Openbaarheid:
+
+Geen beperkingen
+
+Toegankelijk:
+
+Inventaris
+
+Jaar bewerking:
+
+1954-1961
+
+Titel publicatie:
+
+P. Scherft, _De archieven der Prefectuur van het Departement der Monden van de Schelde en der onderprefecturen van de arrondissementen van Middelburg en Goes 1810-1814_ ('s-Gravenhage 1968)
+
+Inzage:
+
+Studiezaal, in origineel
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Rijksarchief in Zeeland
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 08-03-2023
+
+1.232 beschreven archiefstukken
+
+33 gedigitaliseerd
+
+totaal 6.644 bestanden
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Provinciaal Bestuur van Zeeland 1911-1932 (1939), 1911-1932 (1939)&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f41191D02D3F740D1BA43E64368BDB6A4)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/41191D02D3F740D1BA43E64368BDB6A4
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.3&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.3&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.3&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.3&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[6.3 Provinciaal Bestuur van Zeeland 1911-1932 (1939), 1911-1932 (1939)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.3&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "6.3 Provinciaal Bestuur van Zeeland 1911-1932 (1939), 1911-1932 (1939)")
+
+1911-1932 (1939)
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1911-1932 (1939)
+
+Andere namen:
+
+Provincie Zeeland, Gedeputeerde Staten van Zeeland, Commissaris des Konings in Zeeland, Commissaris der Koningin in Zeeland
+
+Vestigingsplaats:
+
+Middelburg
+
+Omvang:
+
+179 meter
+
+Openbaarheid:
+
+Geen beperkingen
+
+Toegankelijk:
+
+Inventaris
+
+Jaar bewerking:
+
+1989, 1995
+
+Opmerking:
+
+De archieven van de Commissaris der Koningin over de periode 1930-1939 (Eerste Afdeling) en 1932-1939 (Tweede Afdeling) zijn geheel verloren gegaan. Van de archieven van Gedeputeerde Staten is alleen dat van de Tweede Afdeling over de periode 1911-1932 bewaard gebleven. Uit de periode 1933-1939 zijn geen seriematig gevormde archieven overgeleverd. Het eindjaar "(1939)" wordt uitsluitend veroorzaakt door de aanwezigheid van de incidenteel bewaard gebleven gemeenterekeningen van 1938-1939. Onderzoek in de resterende archieven wordt bovendien ernstig bemoeilijkt door het verloren gaan van de eigentijdse toegangen op de series zoals agenda's, indicateurs, indices en klappers (zie verder de inleiding).
+
+Inzage:
+
+Studiezaal
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Provincie Zeeland
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 27-11-2018
+
+1.210 beschreven archiefstukken
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Stad en Gemeente Arnemuiden 1431-1857, 1431-1857 (1892)&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f7FD0238AD36946DD8F35549CC2C46280)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/7FD0238AD36946DD8F35549CC2C46280
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=1200&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=1200&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=1200&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=1200&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[1200 Stad en Gemeente Arnemuiden 1431-1857, 1431-1857 (1892)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=1200&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "1200 Stad en Gemeente Arnemuiden 1431-1857, 1431-1857 (1892)")
+
+1431-1857 (1892)
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1431-1857 (1892)
+
+Vestigingsplaats:
+
+Arnemuiden
+
+Omvang:
+
+35 meter
+
+Openbaarheid:
+
+Geen beperkingen
+
+Toegankelijk:
+
+Inventaris
+
+Jaar bewerking:
+
+1996
+
+Titel publicatie:
+
+F.H. de Klerk, _Inventaris van de archieven van de Gemeente Arnemuiden, 1431-1857 (1892)_. Goese Inventarissen 21 (Goes 1996)
+
+Beschrijving:
+
+Deze inventaris vervangt de oude, tot 1996 in gebruik zijnde inventaris, gepubliceerd als: C. de Waard, 'De archieven berustende onder het bestuur der gemeente Arnemuiden', in: _Verslagen omtrent 's Rijks Oude Archieven_ [VROA] 47 (1924), Tweede deel ('s-Gravenhage 1925) 232-444. In deze digitale versie is aan de nieuwe inventaris toegevoegd de oude regestenlijst op alle akten tot en met 1600, gepubliceerd als: \[C. de Waard\], 'Arnemuiden. Regestenlijst', in: _Verslagen omtrent 's Rijks Oude Archieven_ [VROA] 48 (1925), Tweede deel ('s-Gravenhage 1926) 292-492. De in de regestenlijst vermelde verwijzingen naar de inventarisnummers zijn aangepast aan de nieuwe nummering.
+
+Inzage:
+
+Studiezaal, in origineel
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Gemeente Middelburg
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 16-03-2023
+
+2.635 beschreven archiefstukken
+
+100 gedigitaliseerd
+
+totaal 7.332 bestanden
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Provinciaal Bestuur van Zeeland, Eerste en Derde Afdeling 1940-1949, (1935) 1940-1949 (1953)&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2f5AF396526DD74CCB938513C02AD8E080)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/5AF396526DD74CCB938513C02AD8E080
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.7&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.7&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.7&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.7&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[6.7 Provinciaal Bestuur van Zeeland, Eerste en Derde Afdeling 1940-1949, (1935) 1940-1949 (1953)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=6.7&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "6.7 Provinciaal Bestuur van Zeeland, Eerste en Derde Afdeling 1940-1949, (1935) 1940-1949 (1953)")
+
+(1935) 1940-1949 (1953)
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+(1935) 1940-1949 (1953)
+
+Andere namen:
+
+Provincie Zeeland
+
+Ressort:
+
+Zeeland
+
+Vestigingsplaats:
+
+Middelburg
+
+Omvang:
+
+18 meter
+
+Openbaarheid:
+
+Gedeeltelijk beperkt (zie inleiding)
+
+Toegankelijk:
+
+Inventaris
+
+Inzage:
+
+Studiezaal, in origineel
+
+Raadpleegvestiging:
+
+Middelburg, Hofplein
+
+Collectie:
+
+Provincie Zeeland
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 05-04-2023
+
+946 beschreven archiefstukken
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Beeldbank&body=https%3a%2f%2fwww.zeeuwsarchief.nl%2fonderzoek-het-zelf%2farchief%2f%3fmivast%3d239%26amp%3bmizig%3d261%26amp%3bmiadt%3d239%26amp%3bmiview%3dgal)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Linkenhttps://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&miview=gal
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&miview=gal "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&miview=gal "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&miview=gal "Stuur een reactie naar Zeeuws Archief")
+
+[![Beeldbank](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/beeldmateriaal_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=gal "Beeldbank")
+
+[Beeldbank](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=261&miadt=239&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=gal " Beeldbank")
+
+laatste wijziging 08-04-2023
+
+286.844 afbeeldingen
+
+271.938 gedigitaliseerd
+
+**Delen**
+
+[Doorsturen per email](mailto:?subject=Gemeente Bruinisse 1941-1996, 1941-1996&body=https%3a%2f%2fhdl.handle.net%2f21.12113%2fE713CE2CA6EE49FCB0E96C7E8C55A497)
+
+[Delen via Facebook](#)
+
+[Delen via Twitter](#)
+
+Duurzaam webadreshttps://hdl.handle.net/21.12113/E713CE2CA6EE49FCB0E96C7E8C55A497
+
+**Mijn Studiezaal**
+
+[Favoriet of een notitie maken](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5003.2&miview=inv2 "Mijn Studiezaal: Favoriet of een notitie maken")
+
+[Stel een vraag of plaats een opmerking op de tijdlijn](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5003.2&miview=inv2 "Mijn Studiezaal: Stel een vraag of plaats een opmerking op de tijdlijn")
+
+**Reageren**
+
+[Stuur een reactie naar Zeeuws Archief](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5003.2&miview=inv2 "Stuur een reactie naar Zeeuws Archief")
+
+[![Archieftoegang](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/inventaris_57.gif)](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5003.2&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "Archieftoegang")
+
+[5003.2 Gemeente Bruinisse 1941-1996, 1941-1996](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=210&miadt=239&micode=5003.2&milang=nl&mizk_alle=bestuur%20der%20visserij&miview=inv2 "5003.2 Gemeente Bruinisse 1941-1996, 1941-1996")
+
+1941-1996
+
+[meer](https://aluminum-pinnate-phalange.glitch.me/)
+
+Datering:
+
+1941-1996
+
+Vestigingsplaats:
+
+Bruinisse
+
+Openbaarheid:
+
+Gedeeltelijk beperkt (40 jaar)
+
+Toegankelijk:
+
+Inventaris (oud nr 627)
+
+Jaar bewerking:
+
+2010
+
+Inzage:
+
+Studiezaal, in origineel
+
+Raadpleegvestiging:
+
+Zierikzee, Laan van St. Hilaire
+
+Collectie:
+
+Gemeente Schouwen-Duiveland
+
+Categorie:
+
+- [Algemeen bestuur en Politiek](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&mizk_alle=trefwoord:Algemeen%20bestuur%20en%20Politiek&miview=lst "zoeken: Algemeen bestuur en Politiek")
+
+laatste wijziging 15-12-2021
+
+2.300 beschreven archiefstukken
+
+1 gedigitaliseerd
+
+totaal 11 bestanden
+
+Pagina: 1
+
+Ga
+
+mi_scriptsloaded(function () {mi_createjumpto('a8c0d631fcd244609304f647f7cd3e81',1,8,3,'https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1');});
+
+- vorige |
+- 1 |
+- [2](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=8&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 2") |
+- [3](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=16&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 3") |
+- [volgende](https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mistart=8&mivast=239&mizig=0&miadt=239&miamount=8&milang=nl&miview=lst&mizk_alle=bestuur%20der%20visserij&miaet=1 "Pagina 2")
+
+[Zeeuws Archief Zeeuws Archief](https://www.zeeuwsarchief.nl/)
+
+## Bezoekadres
+
+Hofplein 16
+4331 CK Middelburg
+
+[Plan je route](https://www.google.com/maps/dir//Zeeuws+Archief,+Hofplein+16,+Middelburg,+Netherlands)
+
+## Contact
+
+0118 - 67 88 00
+
+[06 - 29 83 18 70](https://api.whatsapp.com/send?phone=31629831870) [info@zeeuwsarchief.nl](mailto:info@zeeuwsarchief.nl)
+
+## Volg ons op
+
+- [Twitter](https://twitter.com/zeeuwsarchief)
+- [Facebook](https://www.facebook.com/Zeeuws-Archief-99307886366/)
+- [Instagram](https://www.instagram.com/hetzeeuwsarchief/)
+- [Pinterest](https://www.pinterest.com/zeeuwsarchief/)
+- [LinkedIn](https://www.linkedin.com/company/zeeuws-archief/)
+- [RSS](https://www.zeeuwsarchief.nl/feeds/)
+
+[![ANBI logo](Zoek%20in%20alles%20%E2%80%93%20Zeeuws%20Archief_bestanden/anbi-logo@1x.png)](https://anbi.nl/) [](#top "Naar de top van pagina")
+
+var _paq=window._paq||\[\];_paq.push(\['trackPageView'\]);_paq.push(\['enableLinkTracking'\]);(function(){var u="https://zeeuwsarchief.innocraft.cloud/";_paq.push(\['setTrackerUrl',u+'matomo.php'\]);_paq.push(\['setSiteId','3'\]);var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')\[0\];g.async=true;g.defer=true;g.src=u+'matomo.js';s.parentNode.insertBefore(g,s);})();
